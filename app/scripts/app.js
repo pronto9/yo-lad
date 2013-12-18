@@ -2,7 +2,8 @@
 
 angular.module('yoLadApp', [
   'ngResource',
-  'ngRoute'
+  'ngRoute',
+  'yoLadApp.controllers'
 ])
   .config(function ($routeProvider) {
     $routeProvider

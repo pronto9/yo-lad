@@ -10,10 +10,11 @@ body {
 .business-header {
 	height: 700px;
 	/*background: url('/images/yeoman.png') center center no-repeat; */
-  background: url('/images/hero700.JPG') center center no-repeat;
+  background: url('/images/hero700_1.JPG') center center no-repeat;
   /*
   background: url(http://placehold.it/1920x700) center center no-repeat;
   */
+
 	background-size: cover;
 }
 

@@ -1,0 +1,24 @@
+[
+    {
+ 
+        "id": "bloknot", 
+        "imageUrl": "/images/bloknot700x400_0.JPG",
+        "name": "Bloknot", 
+        "snippet": "Bloknot ruchnoy\r\n\r\n raboti"
+    }, 
+    {
+        
+        "id": "tapochki", 
+        "imageUrl": "/images/bloknot700x400_0.JPG",
+        "name": "Tapochki\u2122", 
+        "snippet": "Tapochki ruchnie\n\nsuper teplie"
+    },
+    {
+
+        "id": "korobochka",
+        "imageUrl": "/images/bloknot700x400_0.JPG",
+        "name": "Korobochka\u2122",
+        "snippet": "Korobochka\n\ntryapichnaya"
+    }
+
+]

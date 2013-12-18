@@ -1,0 +1,15 @@
+{
+    "name": "Bloknot samodelniy", 
+    "price": "3000", 
+    "description": "Long description of Bloknot",
+    "id": "bloknot", 
+    "images": [
+        "img/goods/bloknot.0.jpg", 
+        "img/goods/bloknot.1.jpg", 
+        "img/goods/bloknot.2.jpg", 
+        "img/goods/bloknot.3.jpg", 
+        "img/goods/bloknot.4.jpg", 
+        "img/goods/bloknot.5.jpg"
+    ], 
+
+}

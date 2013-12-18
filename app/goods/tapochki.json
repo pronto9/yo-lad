@@ -1,0 +1,15 @@
+{
+    "name": "Tapochki vazannie", 
+    "price": "2000", 
+    "description": "Long description of Tapochki",
+    "id": "tapockki", 
+    "images": [
+        "img/goods/tapochki.0.jpg", 
+        "img/goods/tapochki.1.jpg", 
+        "img/goods/tapochki.2.jpg", 
+        "img/goods/tapochki.3.jpg", 
+        "img/goods/tapochki.4.jpg", 
+        "img/goods/tapochki.5.jpg"
+    ], 
+
+}
