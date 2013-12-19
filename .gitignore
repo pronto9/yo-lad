@@ -2,3 +2,6 @@ dist
 .tmpy
 .sass-cache
 .idea
+.tmp
+node_modules
+app/bower_components
